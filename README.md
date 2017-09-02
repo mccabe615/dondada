@@ -12,7 +12,8 @@ Add Datumbox and Twitter API keys to don.rb
 
 ```bundle install
 
-ruby don.rb```
+ruby don.rb
+```
 
 DatumBox API:
 
