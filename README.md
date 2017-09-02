@@ -10,7 +10,8 @@ To run:
 
 Add Datumbox and Twitter API keys to don.rb
 
-```bundle install
+```
+bundle install
 
 ruby don.rb
 ```
