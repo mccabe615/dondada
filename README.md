@@ -4,18 +4,20 @@ An app that does sentimental analysis on Tweets from the last 24 hours using the
 
 To run:
 
-`git clone git@github.com:mccabe615/dondada.git`
+```git clone git@github.com:mccabe615/dondada.git
 
-`cd dondada`
+cd dondada
 
-`bundle`
+bundle install
 
-`ruby don.rb`
+#add Datumbox and Twitter API keys to don.rb
+
+ruby don.rb```
 
 DatumBox API:
 
-http://www.datumbox.com/
+http://www.datumbox.com
 
 Twitter API Keys
 
-dev.twitter.com
+http://dev.twitter.com
